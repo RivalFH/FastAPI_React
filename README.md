@@ -18,3 +18,4 @@ Frontend: React.js, Vite, Chakra UI v3.
 Backend: Python, FastAPI, Uvicorn.
 
 Icons: React Icons (Lucide).
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e49d76d4-180e-4603-870c-673e2c689daf" />
