@@ -1,0 +1,11 @@
+### Mengetes Route POST Todos
+POST http://localhost:8000/todo
+Content-Type: application/json
+
+{
+    "id": 3,
+    "item": "Beli Susu"
+}
+
+### Mengetes Route GET (Opsional)
+GET http://localhost:8000/todo
