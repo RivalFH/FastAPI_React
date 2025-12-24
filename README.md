@@ -1,4 +1,4 @@
-📝 Fullstack Todo App (FastAPI + React)
+# FAST API X REACT
 Aplikasi manajemen tugas (Todo List) sederhana yang dibangun menggunakan FastAPI sebagai Backend dan React (Chakra UI) sebagai Frontend.
 
 🚀 Fitur
